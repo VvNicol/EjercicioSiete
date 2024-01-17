@@ -1,0 +1,13 @@
+﻿Puedes desarrollar el ejercicio en la clase Program.
+Inicializa un array de rango 1 con los valores y orden:     10,45,60,6,7,3,2,10
+Obtén la longitud del array utilizando un atributo de la clase array.
+Obtén el valor de la primera, penúltima y última posición del array 
+definido utilizando el atributo anterior a la hora de definir la posición.
+Ordena de forma ascendente el vector utilizando un método de la clase array.
+Modifica la última posición, cambia su valor por 100.
+Ordena de forma descendente el vector utilizando un método de la clase array.
+
+
+Inicializar un array de enteros con el siguiente orden 45, 56,2, -1, 98, 34.
+Obtener su longitud, el valor de la penúltima posición, 
+el valor de la primera y última.
